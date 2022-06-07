@@ -1,4 +1,11 @@
 # Tree
+가독성을 높이고, 자료관리를 효율적으로 하기 위해<br>
+tistory와 github를 사용하여 공부 내용을 정리한다.
+
+## [tistory](https://boogle1920.tistory.com/)
+## [github](https://github.com/boogleboogle/Blog)
+
+---
 작성된 게시물을 관리하고, 접근성을 높이기 위해 작성한다.<br>
 
 - [markdown](https://boogle1920.tistory.com/13)<br>
