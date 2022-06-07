@@ -1,5 +1,3 @@
 # BoogleBoogle Tech Blog
-역량향상과 자료공유, 메모 등을 목적으로 <br>
-아래의 tree를 이용하여 작성함<br>
-
-## [Tree](https://github.com/boogleboogle/Blog/tree/main/tree)
+가독성을 높이고, 자료관리를 효율적으로 하기 위해<br>
+tistory와 github를 사용하여 공부 내용을 정리한다.
