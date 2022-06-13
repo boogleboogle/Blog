@@ -1,6 +1,6 @@
 # it 소식 2022년 6월
 - 목표: 정기적으로 it blog의 news들을 모아서 정리하는 것으로 시야를 넓힌다.
-- 2022년 6월 게시된 글들의 모음
+- 2022년 6월 게시된 tech blog 글들의 모음
 ---
 - kakao Tech
   - [오픈소스 검증 도구: OLIVE CLI 소개](https://tech.kakao.com/2022/06/09/olive-cli/)
