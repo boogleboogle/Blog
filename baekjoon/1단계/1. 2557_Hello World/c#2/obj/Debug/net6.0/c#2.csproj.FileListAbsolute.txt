@@ -1,0 +1,15 @@
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\bin\Debug\net6.0\c#2.exe
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\bin\Debug\net6.0\c#2.deps.json
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\bin\Debug\net6.0\c#2.runtimeconfig.json
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\bin\Debug\net6.0\c#2.dll
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\bin\Debug\net6.0\ref\c#2.dll
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\bin\Debug\net6.0\c#2.pdb
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\obj\Debug\net6.0\c#2.csproj.AssemblyReference.cache
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\obj\Debug\net6.0\c#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\obj\Debug\net6.0\c#2.AssemblyInfoInputs.cache
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\obj\Debug\net6.0\c#2.AssemblyInfo.cs
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\obj\Debug\net6.0\c#2.csproj.CoreCompileInputs.cache
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\obj\Debug\net6.0\c#2.dll
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\obj\Debug\net6.0\ref\c#2.dll
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\obj\Debug\net6.0\c#2.pdb
+C:\Users\opeer\Desktop\github\boogle\baekjoon\1단계\1. 2557_Hello World\c#2\obj\Debug\net6.0\c#2.genruntimeconfig.cache
