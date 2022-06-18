@@ -1,16 +1,11 @@
 # Hello World
+## 백준(baekjoon) 2557번 문제 Hello World 문제풀이(python, c, c++, c#, java)
+---
+문제: Hello World!를 출력하시오.
 
-- 문제
+입력: 없음
 
-    Hello World!를 출력하시오.
-
-- 입력
-
-    없음
-
-- 출력
-
-    Hello World!를 출력하시오.
+출력: Hello World!를 출력하시오.
 
 ---
 
@@ -23,15 +18,18 @@ print("Hello World!")
 파이썬은 간단하게 print만 사용하면 원하는 문장을 출력할 수 있다.
 컴파일 없이도 바로 실행하고 확인할 수 있어서 편리하다.
 
-2. c
-~~~c
-#include <stdio.h>
+---
 
-main()
-{
-    printf("Hello World!");
-}
+2. c
 ~~~
+    #include <stdio.h>
+
+    main()
+    {
+        printf("Hello World!");
+    }
+~~~
+
 - 헤더파일(위에서는 stdio.h)은, main()보다 먼저 작성한다.
 - 보통 헤더 파일은 #include<기본 라이브러리 헤더>의 기본형식을 가지고 있다.
 - stdio – 표준 입출력(standard input output)의 약자로 입력과 출력에 관련된 라이브러리 함수들이 포함되어 있다.
@@ -43,6 +41,9 @@ main()
 
 [참고](https://opentutorials.org/module/3921/23496), 
 [참고2](https://opentutorials.org/module/3921/23498)<br>
+
+---
+
 3. c++
 
 ~~~c++
@@ -79,6 +80,8 @@ main()
 ~~~
 - 물론 c에서 사용한 방법 그대로 사용할 수 있다.
 
+---
+
 4. c#
 
 ~~~c#
@@ -103,6 +106,9 @@ namespace Baekjoon2557
     }
 }
 ~~~
+
+---
+
 5. java
 
 ~~~java
@@ -125,13 +131,7 @@ class main {
 - void - 메소드의 리턴타입 중 하나로 void는 리턴값이 없음을 의미한다.
 - String[] args - 메소드의 매개 변수이다. args 변수는 String[] 배열 자료형임을 의미한다. args라는 이름은 인수를 의미하는 arguments의 약어로 관례적인 이름이다. args 대신 다른 이름을 사용해도 상관없다.
 - 컴퓨터에 무언가 일을 시키는 문장을 명령문(Statement)이라고 한다. 명령문은 반드시 세미콜론(;)을 붙여 문장의 끝을 표시해야 한다. 메소드 블록 안에는 여러개의 명령문이 있을 수 있다.
-~~~java
-class baekjoon_2557_java {
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
-}
-~~~
+
 [참고](https://wikidocs.net/278)
 
 ---
